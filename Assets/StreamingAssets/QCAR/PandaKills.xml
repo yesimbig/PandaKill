@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="littleroad" size="256.000000 256.000000" />
+    <ImageTarget name="mikoQ6" size="256.000000 256.000000" />
+    <ImageTarget name="SA" size="256.000000 256.000000" />
+    <ImageTarget name="chicken" size="256.000000 256.000000" />
+    <ImageTarget name="doubleleaf" size="256.000000 256.000000" />
+    <ImageTarget name="excersice" size="256.000000 256.000000" />
+    <ImageTarget name="AA" size="256.000000 256.000000" />
+    <ImageTarget name="lulu" size="256.000000 256.000000" />
+    <ImageTarget name="noodles" size="256.000000 256.000000" />
+    <ImageTarget name="dumkins" size="256.000000 256.000000" />
+    <ImageTarget name="restaurant1rise" size="256.000000 256.000000" />
+    <ImageTarget name="SB" size="256.000000 256.000000" />
+    <ImageTarget name="RA" size="256.000000 256.000000" />
+    <ImageTarget name="COMEBUY" size="256.000000 256.000000" />
+    <ImageTarget name="AHua" size="256.000000 256.000000" />
+    <ImageTarget name="artspace" size="256.000000 256.000000" />
+    <ImageTarget name="dintien" size="256.000000 256.000000" />
+    <ImageTarget name="HiLife" size="256.000000 256.000000" />
+    <ImageTarget name="swimmingpool" size="256.000000 256.000000" />
+    <ImageTarget name="Mc" size="256.000000 256.000000" />
+    <ImageTarget name="IHateThisPlace" size="256.000000 256.000000" />
+    <ImageTarget name="library" size="256.000000 256.000000" />
+    <ImageTarget name="CScenter" size="256.000000 256.000000" />
+    <ImageTarget name="SC" size="256.000000 256.000000" />
+    <ImageTarget name="activitycenter" size="256.000000 256.000000" />
+    <ImageTarget name="FamilyMart" size="256.000000 256.000000" />
+    <ImageTarget name="NCTU_LOGO" size="256.000000 256.000000" />
+    <ImageTarget name="CPT" size="256.000000 256.000000" />
+    <ImageTarget name="TJB" size="256.000000 256.000000" />
+    <ImageTarget name="milk" size="256.000000 256.000000" />
+    <ImageTarget name="hangmibao" size="256.000000 256.000000" />
+    <ImageTarget name="oganki" size="256.000000 256.000000" />
+    <ImageTarget name="chungcheng" size="256.000000 256.000000" />
+    <ImageTarget name="EF" size="256.000000 256.000000" />
+    <ImageTarget name="EE" size="256.000000 256.000000" />
+    <ImageTarget name="ED" size="256.000000 256.000000" />
+    <ImageTarget name="EC" size="256.000000 256.000000" />
+    <ImageTarget name="littlewood" size="256.000000 256.000000" />
+    <ImageTarget name="bafang" size="256.000000 256.000000" />
+    <ImageTarget name="restaurant2" size="256.000000 256.000000" />
+    <ImageTarget name="restaurant1" size="256.000000 256.000000" />
+    <ImageTarget name="7-11" size="256.000000 256.000000" />
+  </Tracking>
+</QCARConfig>
